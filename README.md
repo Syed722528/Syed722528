@@ -1,5 +1,5 @@
 # 💫 About Me:
-🧑‍💻 I’m currently working on: Creating an Islamic app<br>🤝 I’m looking to collaborate on: Flutter app projects<br>🌱 I’m currently learning: Python for backend<br>💬 Ask me about: Flutter development<br>⚡ Fun fact: I learned dart after flutter
+🧑‍💻 I’m currently working on: Creating an Islamic app<br>🤝 I’m looking to collaborate on: Flutter app projects<br>🌱 I’m currently learning: Golang for backend<br>💬 Ask me about: Flutter development<br>⚡ Fun fact: I learned dart after flutter
 
 
 ## 🌐 Socials:
